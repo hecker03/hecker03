@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📊 Coding Activity
+![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_github_username)
+
+> When I’m not solving problems on LeetCode, I’m implementing ideas on GitHub.
