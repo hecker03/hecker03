@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 📊 Coding Activity
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_github_username)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Keskar_shri)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hecker03)
 
 > When I’m not solving problems on LeetCode, I’m implementing ideas on GitHub.
