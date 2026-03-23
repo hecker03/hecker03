@@ -5,7 +5,7 @@
 ### Security Researcher · CTF Player · Blue & Red Teamer
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/sakkeskar)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/NewHTB28)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019d0b47-f528-7236-908c-6bf176103149)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1A6FB5?style=for-the-badge&logo=shield&logoColor=white)](https://cyberdefenders.org/p/hecker03)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hecker03)
 
