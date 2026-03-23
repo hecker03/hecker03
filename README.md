@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hey, I'm [YOUR NAME]
+# 👋 Hey, I'm Shrishailya Keskar
 
 ### Security Researcher · CTF Player · Blue & Red Teamer
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/YOUR_THM_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1A6FB5?style=for-the-badge&logo=shield&logoColor=white)](https://cyberdefenders.org/p/YOUR_CD_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/sakkeskar)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/NewHTB28)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1A6FB5?style=for-the-badge&logo=shield&logoColor=white)](https://cyberdefenders.org/p/hecker03)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hecker03)
 
 <!-- UPDATED_AT_START -->
 _⏱ Last updated: **never** by GitHub Actions_
@@ -53,7 +53,7 @@ _Stats loading — run the workflow to populate._
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hecker03&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -70,9 +70,7 @@ _Stats loading — run the workflow to populate._
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
 ---
 
 <div align="center">
