@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hecker03)
 
 <!-- UPDATED_AT_START -->
-_⏱ Last updated: **never** by GitHub Actions_
+_⏱ Last updated: **2026-03-23 04:50 UTC** by GitHub Actions_
 <!-- UPDATED_AT_END -->
 
 </div>
@@ -22,7 +22,15 @@ _⏱ Last updated: **never** by GitHub Actions_
 <!-- THM_START -->
 ### 🔴 TryHackMe
 
-_Stats loading — run the workflow to populate._
+[![TryHackMe Badge](https://tryhackme-badge.fly.dev/?username=sakkeskar)](https://tryhackme.com/p/sakkeskar)
+
+
+| Metric | Value |
+|--------|-------|
+| 🏆 Global Rank | #N/A |
+| ⭐ Points | N/A |
+| 🚪 Rooms Completed | N/A |
+| 🔥 Streak | N/A days |
 <!-- THM_END -->
 
 ---
@@ -30,7 +38,17 @@ _Stats loading — run the workflow to populate._
 <!-- HTB_START -->
 ### 🟢 HackTheBox
 
-_Stats loading — run the workflow to populate._
+<img src="https://www.hackthebox.eu/badge/image/019d0b47-f528-7236-908c-6bf176103149" alt="HackTheBox Badge" />
+
+
+| Metric | Value |
+|--------|-------|
+| 🏆 Global Rank | #N/A |
+| ⭐ Points | N/A |
+| 💻 User Owns | N/A |
+| 👑 Root / System Owns | N/A |
+| 🧩 Challenges Solved | N/A |
+| 👏 Respects | N/A |
 <!-- HTB_END -->
 
 ---
@@ -38,7 +56,15 @@ _Stats loading — run the workflow to populate._
 <!-- CD_START -->
 ### 🔵 CyberDefenders
 
-_Stats loading — run the workflow to populate._
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1A6FB5?style=flat-square&logo=shield&logoColor=white)](https://cyberdefenders.org/p/hecker03)
+
+
+| Metric | Value |
+|--------|-------|
+| 🏆 Rank | N/A |
+| ⭐ Score | Chat with us |
+
+> ℹ️ CyberDefenders has no public API — stats are scraped from your public profile page.
 <!-- CD_END -->
 
 ---
@@ -46,7 +72,19 @@ _Stats loading — run the workflow to populate._
 <!-- GITHUB_START -->
 ### 🐙 GitHub
 
-_Stats loading — run the workflow to populate._
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hecker03&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hecker03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker03&layout=compact&theme=dark&hide_border=true)
+
+
+| Metric | Value |
+|--------|-------|
+| 👥 Followers | N/A |
+| 👤 Following | N/A |
+| 📦 Public Repos | N/A |
+| ⭐ Total Stars | 0 |
 <!-- GITHUB_END -->
 
 ---
