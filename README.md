@@ -1,21 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hecker03/hecker03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm [YOUR NAME]
 
-Here are some ideas to get you started:
+### Security Researcher · CTF Player · Blue & Red Teamer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 📊 Coding Activity
-![LeetCode Stats](https://leetcard.jacoblin.cool/Keskar_shri)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hecker03)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1A6FB5?style=for-the-badge&logo=shield&logoColor=white)](https://cyberdefenders.org/p/YOUR_CD_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
-> When I’m not solving problems on LeetCode, I’m implementing ideas on GitHub.
+<!-- UPDATED_AT_START -->
+_⏱ Last updated: **never** by GitHub Actions_
+<!-- UPDATED_AT_END -->
+
+</div>
+
+---
+
+## 🛡️ Cybersecurity & Coding Stats
+
+<!-- THM_START -->
+### 🔴 TryHackMe
+
+_Stats loading — run the workflow to populate._
+<!-- THM_END -->
+
+---
+
+<!-- HTB_START -->
+### 🟢 HackTheBox
+
+_Stats loading — run the workflow to populate._
+<!-- HTB_END -->
+
+---
+
+<!-- CD_START -->
+### 🔵 CyberDefenders
+
+_Stats loading — run the workflow to populate._
+<!-- CD_END -->
+
+---
+
+<!-- GITHUB_START -->
+### 🐙 GitHub
+
+_Stats loading — run the workflow to populate._
+<!-- GITHUB_END -->
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🧰 Tools & Skills
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+</div>
