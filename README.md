@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hecker03)
 
 <!-- UPDATED_AT_START -->
-_⏱ Last updated: **2026-03-23 04:51 UTC** by GitHub Actions_
+_Last updated: **2026-03-23 04:59 UTC** by GitHub Actions_
 <!-- UPDATED_AT_END -->
 
 </div>
@@ -62,9 +62,10 @@ _⏱ Last updated: **2026-03-23 04:51 UTC** by GitHub Actions_
 | Metric | Value |
 |--------|-------|
 | 🏆 Rank | N/A |
-| ⭐ Score | Chat with us |
+| ⭐ Score | N/A |
+| 🧩 Challenges Solved | N/A |
 
-> ℹ️ CyberDefenders has no public API — stats are scraped from your public profile page.
+> ℹ️ CyberDefenders has no public API — stats scraped from your public profile page.
 <!-- CD_END -->
 
 ---
@@ -81,9 +82,9 @@ _⏱ Last updated: **2026-03-23 04:51 UTC** by GitHub Actions_
 
 | Metric | Value |
 |--------|-------|
-| 👥 Followers | N/A |
-| 👤 Following | N/A |
-| 📦 Public Repos | N/A |
+| 👥 Followers | 5 |
+| 👤 Following | 6 |
+| 📦 Public Repos | 9 |
 | ⭐ Total Stars | 0 |
 <!-- GITHUB_END -->
 
