@@ -1,64 +1,81 @@
 <div align="center">
 
-# 👋 Hey, I'm Shrishailya Keskar
+# Shrishailya Keskar
 
-### LLM Security | Automation | 
+**I build LLM-integrated apps, and the tooling that keeps them safe.**
 
-<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/sakkeskar)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/019d0b47-f528-7236-908c-6bf176103149)
-[![CyberDefenders](https://img.shields.io/badge/CyberDefenders-Profile-1A6FB5?style=for-the-badge&logo=shield&logoColor=white)](https://cyberdefenders.org/p/hecker03)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/hecker03) -->
-
-<!-- UPDATED_AT_START -->
-_Last updated: **2026-11-14 02:57 UTC** by GitHub Actions_
-<!-- UPDATED_AT_END -->
+B.E. Information Technology · PES Modern College of Engineering, Pune · 2023–2027
 
 </div>
 
 ---
 
-<!-- GITHUB_START -->
-### 🐙 GitHub
+## About
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hecker03&show_icons=true&theme=dark&hide_border=true&count_private=true)
+I like projects where a model sits inside a real system and something has to be built around it: data flow, trust boundaries, evaluation. Most work below was built for a deadline or for my own daily use. I've marked which is which.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hecker03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## Featured work
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hecker03&layout=compact&theme=dark&hide_border=true)
+### Vanguard: security fabric for banking
+*SuRaksha Cyber Hackathon 2.0 (Canara Bank) · Jun–Jul 2026 · team of five · built on synthetic data*
 
+One architecture replacing isolated checkpoints with four connected pillars:
 
-| Metric | Value |
-|--------|-------|
-| 👥 Followers | 6 |
-| 👤 Following | 6 |
-| 📦 Public Repos | 9 |
-| ⭐ Total Stars | 0 |
-<!-- GITHUB_END -->
+- **Behavioural identity:** Isolation Forest scoring 12+ device and behaviour signals, driving adaptive MFA (passkey, step-up TOTP, session block)
+- **Document forensics:** forgery detection with Error Level Analysis, metadata extraction and a heatmap overlay
+- **Agentic compliance:** LangGraph multi-agent workflow with Gemini, including vision-based checking of uploaded evidence
+- **Insider governance:** an agent-based second approval for risky admin actions, plus a local redaction layer that strips PII before text reaches cloud LLMs
 
----
+**Stack:** Python, FastAPI, LangGraph, Gemini, scikit-learn, OpenCV, PyMuPDF, React, ChromaDB, Redis, privacyIDEA, Docker Compose
+**My part:** *[write exactly what you built]*
+[Repository](https://github.com/hecker03/cyber-suraksha-hackathon-project)
 
-## 🏆 GitHub Trophies
+### Prompt Scrubber
+*Personal project · v1.2 · in use on my own machine*
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hecker03&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+Redacts usernames, paths, GitHub handles, emails and secrets from text before it goes into an AI prompt. A Firefox extension and a Python clipboard agent share one rule file and one set of tests. Next step: a scope-aware version for pentest output, with a measured leakage-versus-utility evaluation.
 
----
+**Stack:** JavaScript, Python, WebExtensions
+[Repository](https://github.com/hecker03/prompt_scrubber)
 
-## 🧰 Tools & Skills
+### ForensIQ: digital forensics platform
+*Personal project · Mar–May 2026*
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
+Full-stack web app with JWT auth, a Dockerized dev stack, production Dockerfiles with an AWS Amplify build spec, and a standalone Python memory-forensics script.
 
----
+**Stack:** React (Vite), Node.js, Express, MongoDB, Docker Compose, AWS Amplify
+[Repository](https://github.com/hecker03/prompt_scrubber)
 
-## 📬 Connect With Me
+### Smaller tools I use myself
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
----
+| Tool | What it does |
+|---|---|
+| [Daily Tracker](https://github.com/hecker03/daily_tracker) | Firefox extension that times my study blocks and logs minutes to a Google Sheet |
+| [Site Visit Tracker](https://github.com/hecker03/site-visit-tracker) | Cross-browser extension that logs top-level page visits to a Google Sheet during VAPT; offline queue, cross-platform installer, 99 automated tests |
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
-</div>
+## Where LLMs show up in my work
+
+| Area | What I did | Status |
+|---|---|---|
+| Multi-agent workflows | LangGraph compliance agents with Gemini (Vanguard) | Hackathon prototype, team project |
+| Vision-model checking | Evidence screenshots audited by a vision model (Vanguard) | Hackathon prototype, team project |
+| Data privacy before LLMs | Local redaction layers: Vanguard's PII filter, Prompt Scrubber | Prototype / personal use |
+| Securing LLM applications | Final-year project on protecting LLM-integrated apps | In progress |
+
+## Now
+
+- Final-year project on securing LLM-integrated applications
+- Evaluating scope-aware redaction on lab data
+
+## Stack
+
+Python · FastAPI · scikit-learn · LangGraph · React · Node.js · MongoDB · Docker · Git · Linux
+Also used: Burp Suite, Wireshark, Nessus, Kali Linux
+
+## Background
+
+National finalist, IndiaSkills 2025–26 (Cyber Security). Internships in web application security testing at Farchase Solutions and ScaleFull Technologies.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/shrishailyakeskar-12s6511)>
