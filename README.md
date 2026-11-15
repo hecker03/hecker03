@@ -13,7 +13,7 @@ B.E. Information Technology · PES Modern College of Engineering, Pune · 2023�
 ## About
 
 I like projects where a model sits inside a real system and something has to be built around it: data flow, trust boundaries, evaluation. Most work below was built for a deadline or for my own daily use. I've marked which is which.
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hecker03&theme=default&hide_border=true)](https://github.com/hecker03)
 ## Featured work
 
 ### Vanguard: security fabric for banking
