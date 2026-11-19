@@ -31,9 +31,9 @@ One architecture replacing isolated checkpoints with four connected pillars:
 [Repository](https://github.com/hecker03/cyber-suraksha-hackathon-project)
 
 ### Prompt Scrubber
-*Personal project · v1.2 · in use on my own machine*
+*Personal project · v1.2.1 · in use on my own machine*
 
-Redacts usernames, paths, GitHub handles, emails and secrets from text before it goes into an AI prompt. A Firefox extension and a Python clipboard agent share one rule file and one set of tests. Next step: a scope-aware version for pentest output, with a measured leakage-versus-utility evaluation.
+Redacts secrets, emails, names in git author lines, GitHub handles, paths and more from text before it goes into an AI prompt. A Firefox extension and a Python clipboard agent share one rule file, checked by the same 35 test cases in JavaScript and Python.
 
 **Stack:** JavaScript, Python, WebExtensions
 [Repository](https://github.com/hecker03/prompt_scrubber)
@@ -65,7 +65,7 @@ Full-stack web app with JWT auth, a Dockerized dev stack, production Dockerfiles
 ## Now
 
 - Final-year project on securing LLM-integrated applications
-- Evaluating scope-aware redaction on lab data
+- Designing the next Prompt Scrubber: profiles per profession, a "redact or keep" prompt with undo, and rules that adapt to the user's choices (design stage, with an evaluation planned)
 
 ## Stack
 
